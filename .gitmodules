@@ -1,0 +1,9 @@
+[submodule "leetcode-questions-scraper"]
+	path = leetcode-questions-scraper
+	url = https://github.com/Bishalsarang/Leetcode-Questions-Scraper
+[submodule "leetcode-solutions-qiyuangong"]
+	path = leetcode-solutions-qiyuangong
+	url = https://github.com/qiyuangong/leetcode
+[submodule "leetcode-solutions-haoel"]
+	path = leetcode-solutions-haoel
+	url = https://github.com/haoel/leetcode
