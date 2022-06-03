@@ -3,7 +3,7 @@
 	url = https://github.com/Bishalsarang/Leetcode-Questions-Scraper
 [submodule "leetcode-solutions-qiyuangong"]
 	path = leetcode-solutions-qiyuangong
-	url = https://github.com/qiyuangong/leetcode
+	url = https://github.com/SinoLewis/leetcode-1
 [submodule "leetcode-solutions-haoel"]
 	path = leetcode-solutions-haoel
 	url = https://github.com/haoel/leetcode
